@@ -1,6 +1,6 @@
 # tournament-db
 
-This repository uses postgresql to manage a Swiss tournament style tracking.
+This repository uses virtualbox, vagrant and postgresql to manage a Swiss tournament style tracking.
 
 ## Installation
 
